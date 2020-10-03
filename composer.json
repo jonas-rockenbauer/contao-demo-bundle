@@ -1,5 +1,5 @@
 {
-    "name": "jrockenbauer/skeleton-bundle",
+    "name": "jrockenbauer/contao-demo-bundle",
     "type": "contao-bundle",
     "description": "Demo for Contao 4 bundles",
     "homepage": "https://contao.org",
@@ -42,7 +42,7 @@
         }
     },
     "support": {
-        "issues": "https://github.com/jrockenbauer/contao-demo-bundle/issues",
-        "source": "https://github.com/jrockenbauer/contao-demo-bundle"
+        "issues": "https://github.com/jonas-rockenbauer/contao-demo-bundle/issues",
+        "source": "https://github.com/jonas-rockenbauer/contao-demo-bundle"
     }
 }
